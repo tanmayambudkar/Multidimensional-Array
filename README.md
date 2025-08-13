@@ -18,13 +18,13 @@ Use multiple indices: matrix[row][column].
 
 Applications:
 
-Mathematical matrices
+(1) Mathematical matrices
 
-Image processing (pixels in an image)
+(2) Image processing (pixels in an image)
 
-Storing tables of data
+(3) Storing tables of data
 
-Scientific computations
+(4) Scientific computations
 
 # Conclusion:
 Multidimensional arrays in C++ provide a structured way to organize and process data in two or more dimensions. Their declaration, memory management, and element access are foundational for a range of applications, from graphics to scientific computing. Mastery of these arrays is essential for efficient data processing in many engineering and technical domains.
